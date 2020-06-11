@@ -164,7 +164,7 @@ a {
   background-color: transparent;
 }
 a:hover {
-  color: #117964;
+  color: #795511;
   text-decoration: underline;
 }
 
@@ -2476,8 +2476,8 @@ fieldset:disabled a.btn {
 }
 .btn-primary:hover {
   color: #fff;
-  background-color: rgb(24, 156, 24);
-  border-color: rgb(24, 156, 24);
+  background-color: rgb(156, 121, 24);
+  border-color: rgb(156, 125, 24);
 }
 .btn-primary:focus, .btn-primary.focus {
   color: #fff;
@@ -10176,7 +10176,7 @@ h3 {
   left: 0;
   transition: all 0.2s ease-in-out;
   opacity: 0;
-  background-color: rgb(9, 104, 9, 0.6)
+  background-color: rgba(104, 95, 9, 0.6)
 }
 .portfolio .portfolio-item .portfolio-item-caption:hover {
   opacity: 1;
